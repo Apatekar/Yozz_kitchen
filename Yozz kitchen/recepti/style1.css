@@ -1,0 +1,50 @@
+body{
+	background-image: url("recipecover.png");
+	background-attachment: fixed;
+    background-position: center;
+    color:#F0FFF0;
+	}
+img{
+    height: 400px;
+   }
+   
+h1 {font-family:'Permanent Marker', cursive;}
+	
+p{font-family: 'Baloo Tammudu', cursive;}
+
+li{font-family: 'Permanent Marker', cursive;}
+
+div{
+	width:700px;
+	background-image: linear-gradient(#6c88b5,#2f3744);
+	}
+	
+.description{font-size:20px;}
+
+#cook-time{font-weight:bold;}
+
+.ingredients{list-style:square;}
+
+.time{color:white;}
+
+.external-link{color:SeaGreen;}
+
+h2{font-family:Helvetica;}
+
+#footer {
+	height:50px;
+	text-align: center;
+        }
+#footer a:link,
+#footer a:visited {
+	color: #FFF;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #CFB07E;
+}
+#footer a:active {
+	color: #444;
+}	
+	
+	
